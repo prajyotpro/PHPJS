@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COUNTRIES>
+	<COUNTRY>
+		<NAME>India</NAME>
+		<STATES>
+			<STATE>Andhra Pradesh</STATE>
+			<STATE>Arunachal Pradesh</STATE>
+			<STATE>Assam</STATE>
+			<STATE>Bihar</STATE>
+			<STATE>Chhattisgarh</STATE>
+			<STATE>Goa</STATE>
+			<STATE>Gujarat</STATE>
+			<STATE>Haryana</STATE>
+			<STATE>Himachal Pradesh</STATE>
+		</STATES>
+	</COUNTRY>
+	<COUNTRY>
+		<NAME>England</NAME>
+		<STATES>
+			<STATE>London</STATE>
+			<STATE>West Midlands</STATE>
+			<STATE>Greater Manchester</STATE>
+			<STATE>West Yorkshire</STATE>
+			<STATE>Kent</STATE>
+			<STATE>Merseyside</STATE>
+			<STATE>Essex</STATE>
+		</STATES>
+	</COUNTRY>
+	<COUNTRY>
+		<NAME>Australia</NAME>
+		<STATES>
+			<STATE>Ashmore and Cartier Islands</STATE>
+			<STATE>Australian Antarctic Territory</STATE>
+			<STATE>Australian Capital Territory</STATE>
+			<STATE>Christmas Island</STATE>
+			<STATE>Cocos (Keeling) Islands</STATE>
+			<STATE>Coral Sea Islands	</STATE>
+		</STATES>
+	</COUNTRY>
+</COUNTRIES>
